@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/DE_NUKE/NUKE_METALDOOR_01.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_hotwireslum_final/c-822_86_-49"
+	}
+}

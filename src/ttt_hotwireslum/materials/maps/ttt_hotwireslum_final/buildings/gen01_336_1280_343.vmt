@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/BUILDINGS/GEN01.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_hotwireslum_final/c336_1280_343"
+	}
+}

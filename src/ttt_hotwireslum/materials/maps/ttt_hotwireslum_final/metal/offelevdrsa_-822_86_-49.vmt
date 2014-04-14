@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/OFFELEVDRSA.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_hotwireslum_final/c-822_86_-49"
+	}
+}

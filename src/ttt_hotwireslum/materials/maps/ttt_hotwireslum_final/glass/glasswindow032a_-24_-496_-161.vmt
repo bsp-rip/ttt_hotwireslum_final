@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/GLASS/GLASSWINDOW032A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_hotwireslum_final/c-24_-496_-161"
+	}
+}
